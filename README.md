@@ -11,3 +11,5 @@ The objective is to provide executives with an interactive view of business heal
 * **Margin Leakage:** Which product categories lose the most revenue to discounts?
 * **Time-Series Trends:** How does revenue fluctuate month-over-month?
 * **Transaction Preferences:** What are the most popular payment gateways by volume?
+  
+- Dashboard Interaction <a href="https://github.com/morara26/Data-Analysis-Dashboard/blob/main/E-commerce.png">View Dashboard</a>
