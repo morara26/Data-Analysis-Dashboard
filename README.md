@@ -13,3 +13,8 @@ The objective is to provide executives with an interactive view of business heal
 * **Transaction Preferences:** What are the most popular payment gateways by volume?
   
 - Dashboard Interaction <a href="https://github.com/morara26/Data-Analysis-Dashboard/blob/main/E-commerce.png">View Dashboard</a>
+## Process
+1. **Data Preprocessing & Cleaning:** Handled missing values and standardized categorical variables.
+2. **Data Modeling:** Loaded cleaned data into the Excel Data Model (Power Pivot) to connect multiple tables.
+3. **Metric Calculation:** Created dynamic Pivot Caches to aggregate Revenue, Discount Loss, and Average Discount.
+4. **Data Visualization:** Engineered a modern interface with floating KPI cards, clean charts, and interactive slicers.
