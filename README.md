@@ -4,3 +4,4 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 ## Project Objective
 The objective is to provide executives with an interactive view of business health to optimize pricing strategies. The dashboard tracks gross vs. net revenue, category-level discount leakage, order volumes and payment gateway trends.
 ## Dataset used
+-<a href="https://github.com/morara26/Data-Analysis-Dashboard/blob/main/ecommerce_dataset_updated.csv">Dataset</a>
