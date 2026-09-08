@@ -16,8 +16,18 @@ The objective is to provide executives with an interactive view of business heal
 ## Process
 1. **Data Preprocessing & Cleaning:** Handled missing values and standardized categorical variables.
 2. **Data Modeling:** Loaded cleaned data into the Excel Data Model (Power Pivot) to connect multiple tables.
-3. **Metric Calculation:** Created dynamic Pivot Caches to aggregate Revenue, Discount Loss, and Average Discount.
-4. **Data Visualization:** Engineered a modern interface with floating KPI cards, clean charts, and interactive slicers.
+3. **Metric Calculation:** Created dynamic Pivot Caches to aggregate Revenue, Discount Loss and Average Discount.
+4. **Data Visualization:** Engineered a modern interface with floating KPI cards, clean charts and interactive slicers.
 
 ## Dashboard
 <img width="905" height="734" alt="E-commerce" src="https://github.com/user-attachments/assets/730b2d3a-faed-4b4b-ae48-44bd78c95a00" />
+
+## Project Insights
+* **Overall Performance:** The store generated **$757,278 Net Revenue** ($932,570 Gross) across 3,660 total orders.
+* **Discount Impact:** A flat ~18.8% discount rate resulted in **$175,292 lost** to discounts.
+* **Top Categories:** **Clothing** ($115k) and **Books** ($111k) drove the highest net revenue.
+* **Payment Preferences:** **Credit Cards** and **UPI** are the top gateways, indicating a mobile-first customer base.
+* **Seasonality:** Revenue peaked in **October** ($76k) but dropped sharply in **November** ($51k).
+
+## Final Conclusion
+While the store maintains healthy transaction volumes, the universal ~18-19% discount rate is causing significant margin leakage, particularly in "Books" and "Home & Kitchen." Transitioning from a flat store-wide discount strategy to targeted promotions will optimize profitability and reclaim gross margin.
