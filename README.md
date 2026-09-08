@@ -5,3 +5,9 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 The objective is to provide executives with an interactive view of business health to optimize pricing strategies. The dashboard tracks gross vs. net revenue, category-level discount leakage, order volumes and payment gateway trends.
 ## Dataset used
 -<a href="https://github.com/morara26/Data-Analysis-Dashboard/blob/main/ecommerce_dataset_updated.csv">Dataset</a>
+
+##  Questions (KPIs)
+* **Revenue Health:** What is the Total Gross Revenue compared to Total Net Revenue?
+* **Margin Leakage:** Which product categories lose the most revenue to discounts?
+* **Time-Series Trends:** How does revenue fluctuate month-over-month?
+* **Transaction Preferences:** What are the most popular payment gateways by volume?
