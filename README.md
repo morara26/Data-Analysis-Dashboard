@@ -18,3 +18,6 @@ The objective is to provide executives with an interactive view of business heal
 2. **Data Modeling:** Loaded cleaned data into the Excel Data Model (Power Pivot) to connect multiple tables.
 3. **Metric Calculation:** Created dynamic Pivot Caches to aggregate Revenue, Discount Loss, and Average Discount.
 4. **Data Visualization:** Engineered a modern interface with floating KPI cards, clean charts, and interactive slicers.
+
+## Dashboard
+<img width="905" height="734" alt="E-commerce" src="https://github.com/user-attachments/assets/730b2d3a-faed-4b4b-ae48-44bd78c95a00" />
